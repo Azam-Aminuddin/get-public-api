@@ -13,4 +13,4 @@ informations about a given movie or music album. The public websites are :
 It will build 2 jars: query.jar (without dependencies) and query-jar-with-dependencies.jar.
   
 ## How to run
-> java -jar target\query-jar-with-dependencies.jar api=imdb movie="Indiana Jones"
+> java -jar target/query-jar-with-dependencies.jar api=imdb movie="Indiana Jones"
